@@ -1,0 +1,17 @@
+# Getting Ready
+
+- jalankan di terminal
+    where python
+    where pip
+
+        - output
+            C:\Users\HP\AppData\Local\Programs\Python\Python313\python.exe
+            C:\Users\HP\AppData\Local\Programs\Python\Python313\Scripts\pip.exe
+
+- untuk install import (terminal)
+    pip install -r requirements.txt
+    pip install -r requirements.txt -q
+
+- run code
+    streamlit run app_streamlit.py
+    python -m streamlit run app_streamlit.py
